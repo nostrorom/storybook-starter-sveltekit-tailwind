@@ -7,6 +7,7 @@
 - Prettier
 - Playwright
 - Vitest
+- Darkmode/Lightmode
 
 ## Usage
 
