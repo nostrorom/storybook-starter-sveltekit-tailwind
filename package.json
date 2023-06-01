@@ -33,7 +33,7 @@
 		"eslint": "^8.41.0",
 		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-storybook": "^0.6.12",
-		"eslint-plugin-svelte": "^2.29.0",
+		"eslint-plugin-svelte": "^2.30.0",
 		"postcss": "^8.4.24",
 		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.1",
@@ -46,7 +46,7 @@
 		"tslib": "^2.5.2",
 		"typescript": "^5.0.4",
 		"vite": "^4.3.9",
-		"vitest": "^0.31.1"
+		"vitest": "^0.31.4"
 	},
 	"type": "module"
 }
